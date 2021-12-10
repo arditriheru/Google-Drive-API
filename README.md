@@ -1,5 +1,5 @@
-# simple-upload-google-drive
+# upload-google-drive-api
+
 Simple App to Upload files to Google Drive
 
-Tutorial: [Here](http://bit.ly/tutorial-gdrive)
-Demo: [Here](http://gdrive.masrizky.com)
+Tutorial: [Here](https://drive.google.com/file/d/1nzf9pvWu8r1ZPxxdYHf4diAnHsEDudPz/view?usp=sharing)
