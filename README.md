@@ -1,6 +1,6 @@
 <!-- ABOUT THE PROJECT -->
 
-# upload-google-drive-api
+# Tutorial
 
 Simple App to Upload files to Google Drive
 
